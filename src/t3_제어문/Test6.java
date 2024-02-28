@@ -10,7 +10,7 @@ public class Test6 {
 		int su = 0;
 		String str ="";
 		
-		System.out.print("숫자를 입력하시오? ");
+		System.out.print("44숫자를 입력하시오? ");
 		su = sc.nextInt();
 		
 		if (su > 0) str = "양수";
